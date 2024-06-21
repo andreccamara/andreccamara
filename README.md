@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andreccamara
-- 👀 I’m interested in systems, and aplications analysis and development
-- 🌱 I’m currently learning Data Analise, pandas, javascript, AIPs, 
-- 💞️ I’m looking to collaborate on systems, and aplications
+- 👀 I am interested in web development, data analysis, systems development, and app development.
+- 🌱 I’m currently learning information security, web development, and Android development.
+- 💞️ I’m looking to collaborate on web systems and applications."
 - 📫 How to reach me: send a message
 
 <!---
