@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @andreccamara!
 
   ### I love innovation and simplifying complex tasks.
-- 🔭 I work with Data Analisy and Systems Analysis and Development (i'm also a lawyer).
-- 👀 I am interested in web development, data analysis, systems development, and app development.
+- 🔭 I work with Systems Analysis and Development and Data Analisy (i'm also a lawyer).
+- 👀 I am interested in web development and systems development.
 - 🌱 I’m currently learning information security, and Android development.
-- 💬 Ask me about tableau, python, pandas, matplotlib, sklearn, javascript, node, html, css.
+- 💬 Ask me about python, javascript, node.
 - 💞️ I’m looking to collaborate on web systems and applications.
 - 📫 How to reach me: send a message devandrecorso@hotmail.com
 
