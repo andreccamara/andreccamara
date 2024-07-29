@@ -1,9 +1,9 @@
 # 👋 Bem-vindo ao Perfil de Andre Camara!
 Eu me chamo Andre Camara e sou um desenvolvedor de sistemas full stack e analista de dados, além de advogado. Seja muito bem-vindo ao meu perfil no Github! Embora tenha uma formação e experiência profissional em Direito, descobri que também tenho uma grande afinidade e aptidão em TI, pois envolve lógica, solução de problemas e pensamento analítico.
 
-Como analista de dados, além de aprender a analisar coortes, apresentar soluções para problemas de negócios, calcular Indicadores-Chave de Desempenho (KPIs), realizar testes estatísticos e fazer análise econômica, adquiri conhecimentos valiosos sobre as tecnologias: Python e suas principais bibliotecas (pandas, numpy, matplotlib, plotly, scikit-learn, etc), MySQL, HTML, Tableau e Excel.
+Como analista de dados, posso analisar coortes, apresentar soluções para problemas de negócios, calcular Indicadores-Chave de Desempenho (KPIs), realizar testes estatísticos e fazer análise econômica. Utilizo as tecnologias: Python e suas principais bibliotecas (pandas, numpy, matplotlib, plotly, scikit-learn, etc), MySQL, HTML, Tableau e Excel.
 
-Como desenvolvedor de sistemas, adquiri conhecimentos para desenvolver sistemas com bancos de dados relacionais, tanto no backend quanto no frontend. As tecnologias mais estudadas no curso foram C, Java, JavaScript, Node, Express, HTML, CSS, Bootstrap, MySQL, dentre outras.
+Como desenvolvedor de sistemas, desenvolvo sistemas tanto o backend quanto o frontend. As tecnologias mais estudadas nesta area foram C, Java, JavaScript, Node, Express, HTML, CSS, Bootstrap, MySQL, dentre outras.
 
 Tenho muita motivação para aplicar meus conhecimentos em projetos reais. 
 #### Me Contate, adoraria ouvir mais de você
