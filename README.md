@@ -1,16 +1,27 @@
-# 👋 Hi, I’m @andreccamara!
+# 👋 Bem-vindo ao Perfil de Andre Camara!
+Eu me chamo Andre Camara e sou um desenvolvedor de sistemas full stack e analista de dados, além de advogado. Seja muito bem-vindo ao meu perfil no Github! Embora tenha uma formação e experiência profissional em Direito, descobri que também tenho uma grande afinidade e aptidão em TI, pois envolve lógica, solução de problemas e pensamento analítico.
 
-  ### I love innovation and simplifying complex tasks.
-- 🔭 I work with Systems Analysis and Development and Data Analisy (i'm also a lawyer).
-- 👀 I am interested in web development and systems development.
-- 🌱 I’m currently learning information security, and Android development.
-- 💬 Ask me about python, javascript, node.
-- 💞️ I’m looking to collaborate on web systems and applications.
-- 📫 How to reach me: send a message devandrecorso@hotmail.com
+Como analista de dados, além de aprender a analisar coortes, apresentar soluções para problemas de negócios, calcular Indicadores-Chave de Desempenho (KPIs), realizar testes estatísticos e fazer análise econômica, adquiri conhecimentos valiosos sobre as tecnologias: Python e suas principais bibliotecas (pandas, numpy, matplotlib, plotly, scikit-learn, etc), MySQL, HTML, Tableau e Excel.
+
+Como desenvolvedor de sistemas, adquiri conhecimentos para desenvolver sistemas com bancos de dados relacionais, tanto no backend quanto no frontend. As tecnologias mais estudadas no curso foram C, Java, JavaScript, Node, Express, HTML, CSS, Bootstrap, MySQL, dentre outras.
+
+Tenho muita motivação para aplicar meus conhecimentos em projetos reais. 
+#### Me Contate, adoraria ouvir mais de você
+Se tiver alguma pergunta, estiver procurando ajuda, quiser me contratar, ou tratar de qualquer outro assunto você pode conversar comigo visitando meu [LinkedIn](https://www.linkedin.com/in/andre-corso-c%C3%A2mara/) ou enviando uma mensagem para meu [email](devandrecorso@hotmail.com).
+
+## E fique à vontade para dar uma olhada nos meus Projetos em Destaque, aqui embaixo:
+
+| Nome do Projeto | Notebook ou Link | Linguagem | Observação |
+|-----------------|------------------|-----------|------------|
+| [Projeto final do curso de Análise de Dados da TripleTen](https://github.com/andreccamara/Projeto-de-Analise-de-Dados-Everything-Plus) | Projeto_Análise_de_Dados | Python, pandas, numpy, matplotlib, plotly, scipy, scikit-learn | Um projeto completo de análise de dados, desde a coleta e pré-processamento dos dados até a aplicação de modelos de machine learning e análise de resultados. |
+| [Sistema CRUD para Cafeteria](https://github.com/andreccamara/crudcafe) | Projeto_Cafeteria_CRUD | JavaScript, Node.js, React.js | Um sistema completo de gerenciamento de compras para uma cafeteria, com funcionalidades de cadastro, visualização, edição e exclusão de produtos e vendas, incluindo machine learning para análise de padrões de vendas. |
+| [Aplicativo de Gerenciamento de Cardápio](https://github.com/andreccamara/crud-restaurante) | Projeto_Gerenciamento_Cardapio | Python, Django, SQLite | Um aplicativo que permite o cadastro e a gestão de itens de menu para restaurantes. |
+| [Análise de Dados para Academia](https://github.com/andreccamara/Projeto-de-Analise-de-dados-de-clientes-de-academia) | Projeto_Academia | Python, pandas, matplotlib, scikit-learn | Projeto que envolve a análise de dados de academias, incluindo análise de frequência de alunos, segmentação de clientes e previsão de cancelamentos usando algoritmos de machine learning. |
+| [Projeto de Análise de Dados: Teste A/B](https://github.com/andreccamara/Projeto-de-Analise-de-Dados-teste--A-B--funil-de-vendas) | Projeto_Teste_AB | Python, pandas, matplotlib, seaborn | Um projeto que envolve a análise de dados de uma loja online internacional fictícia, focado na análise dos resultados de um teste A/B e no funil de vendas, incluindo a aplicação de métodos estatísticos para avaliar a eficácia das mudanças testadas. |
 
 <!---
 andreccamara/andreccamara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
