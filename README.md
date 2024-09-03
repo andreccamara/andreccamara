@@ -11,11 +11,24 @@ Trabalho com coortes, soluções para problemas de negócios, cálculos de KPIs,
 - **Tableau**
 - **Excel**
 
-**Como Desenvolvedor de Sistemas:**  
-Desenvolvo tanto o backend quanto o frontend de sistemas, com foco em:
-- **JavaScript, Python, C, Java**
-- **Node, Express, HTML, CSS, Bootstrap**
-- **MySQL**
+
+**Como Desenvolvedor de Sistemas:** Tenho experiência tanto no backend quanto no frontend. Aqui estão algumas das tecnologias e práticas que utilizo:
+
+**No Backend:**
+
+- **Node.js:** Utilizado para construir APIs escaláveis e gerenciar pacotes.
+- **Express.js:** Framework para criação de APIs e roteamento eficiente.
+- **JavaScript:** Linguagem de programação utilizada tanto no backend (com Node.js e Express.js) quanto no frontend.
+- **MySQL:** Banco de dados relacional para gerenciamento de dados e execução de consultas.
+
+**No Frontend:**
+
+- **JavaScript:** Linguagem principal para desenvolvimento de interatividade e lógica em aplicações web.
+- **React:** Biblioteca para construção de interfaces de usuário dinâmicas e responsivas.
+- **HTML/CSS:** Tecnologias fundamentais para estruturar e estilizar páginas web.
+- **Bootstrap:** Framework CSS para design responsivo e desenvolvimento rápido de interfaces.
+
+
 
 Estou sempre motivado a aplicar meus conhecimentos em projetos reais.
 
@@ -70,5 +83,4 @@ Git • GitHub • HTML • CSS • JavaScript • Python • MySQL • Bootstra
 | [Teste A/B e Funil de Vendas](https://github.com/andreccamara/Projeto-de-Analise-de-Dados-teste--A-B--funil-de-vendas) | Python, pandas, matplotlib, seaborn | Análise de um teste A/B e funil de vendas de uma loja online fictícia, utilizando métodos estatísticos para avaliar a eficácia das mudanças testadas. |
 
 ## 📞 Contato
-Se tiver alguma pergunta, estiver procurando ajuda, quiser me contratar, ou tratar de qualquer outro assunto, você pode me encontrar no LinkedIn [https://www.linkedin.com/in/andre-corso-c%C3%A2mara/](https://www.linkedin.com/in/andre-corso-c%C3%A2mara/) ou enviar uma mensagem para o meu email[devandrecorso@hotmail.com](mailto:devandrecorso@hotmail.com).
-
+Se tiver alguma pergunta, estiver procurando ajuda, quiser me contratar, ou tratar de qualquer outro assunto, você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/andre-corso-c%C3%A2mara/) ou enviar uma mensagem para o meu [email](mailto:devandrecorso@hotmail.com).
