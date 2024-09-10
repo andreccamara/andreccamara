@@ -4,7 +4,8 @@
 Sou Andre Camara, desenvolvedor full stack, analista de dados e advogado. Minha jornada começou no Direito, mas logo descobri uma paixão por TI, onde posso aplicar lógica, resolver problemas e pensar de forma analítica.
 
 **Como Analista de Dados:**  
-Trabalho com coortes, soluções para problemas de negócios, cálculos de KPIs, testes estatísticos e análises econômicas. Utilizo tecnologias como:
+posso analisar coortes, apresentar soluções para problemas de negócios, calcular Indicadores-Chave de Desempenho (KPIs), realizar testes estatísticos e fazer análise econômica.
+Utilizo tecnologias como:
 - **Python** (pandas, numpy, matplotlib, plotly, scikit-learn, etc.)
 - **MySQL**
 - **HTML**
