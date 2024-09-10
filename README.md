@@ -67,9 +67,7 @@ Git • GitHub • HTML • CSS • JavaScript • Python • MySQL • Bootstra
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/>
-</a>
+ 
 </p>
 
 ## 🌟 Projetos em Destaque
